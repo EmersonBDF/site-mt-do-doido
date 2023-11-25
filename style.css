@@ -1,0 +1,105 @@
+@charset "utf-8";
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1551892644-51a6e2e8fc65?q=80&w=1388&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
+    overflow-x: hidden;
+    height: 2000px;
+}
+
+header{
+    background: #e29090;
+    padding: 1em;
+    position: absolute;
+    width: 1258px;
+    left: -10px;
+    top: -2px;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+    font-size: xx-large;
+    text-shadow: 2px 2px 2px #fff;
+    
+
+    /* font-family: 'Vina Sans', sans-serif; */
+}
+
+
+a{
+    padding: 3em;
+    position: absolute;
+    left: 200px;
+    
+}
+
+a img{
+    position: absolute;
+    top: -15px;
+}
+
+.floresta{
+    background: #45d85d;
+    padding: 1em;
+    position: absolute;
+    left: 100px;
+
+}
+
+
+    
+footer{
+    position: absolute;
+    background: #275c30;
+    width: 1275px;
+    padding: 1em;
+    left: -10px;
+    bottom: -1450px;
+    height: 100px;
+    text-shadow: 2px 2px 2px #fff;
+}
+
+img{
+    position: absolute;
+    top: 300px;
+}
+
+p{
+    position: absolute;
+    left: 150px;
+    top: 400px;
+    font-size: x-large;
+    text-shadow: 2px 2px 2px #fff;
+}
+
+.zoio-eyes{
+    position: absolute;
+    top: 600px;
+}
+
+.textodoeyes{
+    position: absolute;
+    top: 800px;
+    left: 300px;
+    text-shadow: 2px 2px 2px #fff;
+}
+iframe{
+    position: absolute;
+    top: 1000px;
+
+}
+
+.joshhuderson{
+    position: absolute;
+    top: 1300px;
+    left: 190px;
+}
+
+.ronniemc{
+    position: absolute;
+    top: 1500px;
+}
+
+.ronnietxt{
+    position: absolute;
+    top: 1800px;
+    left: 300px;
+    text-shadow: 2px 2px 2px #fff;
+}
